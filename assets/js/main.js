@@ -81,7 +81,7 @@
 
 			var $gallery = $('.gallery');
 
-			$gallery.poptrox({
+			// $gallery.poptrox({
 				// baseZIndex: 10001,
 				// useBodyOverflow: false,
 				// usePopupEasyClose: false,
@@ -92,7 +92,7 @@
 				// popupLoaderText: '',
 				// windowMargin: 50,
 				// usePopupNav: true
-			});
+			// });
 
 			// Hack: Adjust margins when 'small' activates.
 				breakpoints.on('>small', function() {
