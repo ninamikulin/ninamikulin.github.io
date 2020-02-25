@@ -91,7 +91,7 @@
 				// // // usePopupCaption: true,
 				// // // popupLoaderText: '',
 				// // // windowMargin: 50,
-				// //  usePopupNav: true
+				  usePopupNav: true
 			 //  });
 
 			// Hack: Adjust margins when 'small' activates.
